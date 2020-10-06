@@ -72,4 +72,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - CodersRank [@kyrylolvov](https://profile.codersrank.io/user/kyrylolvov/)
 - GitHub [@kyrylolvov](https://github.com/kyrylolvov)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Instagram [@kyrylolvov](https://www.instagram.com/kyrylolvov/)
