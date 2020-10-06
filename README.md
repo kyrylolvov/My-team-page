@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - CodersRank [@kyrylolvov](https://profile.codersrank.io/user/kyrylolvov/)
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@kyrylolvov](https://github.com/kyrylolvov)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
