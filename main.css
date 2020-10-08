@@ -80,4 +80,14 @@ img{
     font-size: 18px;
     margin-top: -60px;
 }
+#BottomText{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0em;
+    color: #333333;
+    text-align: center;
+    }
 
