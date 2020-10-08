@@ -1,1 +1,76 @@
 
+body{
+    width: 70%;
+    margin: auto;
+}
+header{
+    margin-top: 5vw;
+    display: flex;
+    justify-content: space-around;
+
+}
+h1{
+    font-family: PT serif;
+    font-weight: 700;
+    font-size: 36px;
+}
+#headerText{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 18px;
+}
+#smallText{
+    font-weight: 400;
+}
+#cards{
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+.card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 264px;
+}
+.undercard{
+    margin-top: 75px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 264px;
+}
+img{
+    width: 238px;
+    margin: 0px;
+}
+.rotate{
+    width: 16px;
+}
+.position{
+    font-size: 12px;
+    line-height: 16px;
+    width: 110px;
+    text-transform: uppercase;
+    transform: rotate(90deg);
+    margin-top: 50px;
+    margin-left: -40px;
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+}
+.name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: -60px;
+}
+.undername{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 0px;
+}
